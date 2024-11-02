@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekapeuhu.github.io/Ejn/sitemap_index.txt
+Sitemap: https://ekapeuhu.github.io/gAw/sitemap_index.txt
+Sitemap: https://ekapeuhu.github.io/sXk/sitemap_index.txt
+Sitemap: https://ekapeuhu.github.io/weC/sitemap_index.txt
